@@ -7,7 +7,6 @@
 ClipdorieMac aims to streamline the macOS user experience by offering quick, keyboard-driven commands to manipulate and manage clipboard content. It's particularly useful for users who frequently work with text and require efficient ways to clean up formatting, adjust text case, or perform custom text processing without leaving their current workflow. By automating these tasks, ClipdorieMac saves time and reduces the need for manual text adjustments or using multiple applications to achieve simple text transformations.
 
 ### Revision history ###
-* Version 1.11 released on 2024 February.
 * Version 1.1 released on 2020 March.
 * Version 1.0 released on 2012 Spring.
 
